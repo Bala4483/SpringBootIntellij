@@ -1,4 +1,4 @@
-package com.dailycodebuffer.Springboot.tutorial;
+package com.dailycodebuffer.Springboot.tutorial.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

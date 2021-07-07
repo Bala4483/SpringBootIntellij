@@ -1,4 +1,4 @@
-package Error;
+package com.dailycodebuffer.Springboot.tutorial.Error;
 
 import com.dailycodebuffer.Springboot.tutorial.Error.DepartmentNotFoundException;
 import com.dailycodebuffer.Springboot.tutorial.entity.ErrorMessage;
